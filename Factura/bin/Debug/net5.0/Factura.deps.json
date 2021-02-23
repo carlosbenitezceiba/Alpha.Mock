@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Factura/1.0.0": {
+        "dependencies": {
+          "Alpha.Mock.Test": "1.0.0"
+        },
+        "runtime": {
+          "Factura.dll": {}
+        }
+      },
+      "Alpha.Mock.Test/1.0.0": {
+        "runtime": {
+          "Alpha.Mock.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alpha.Mock.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
